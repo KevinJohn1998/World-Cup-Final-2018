@@ -22,4 +22,11 @@ see that Croatia had two such amazing players - Ivan Rakitic and Luka Modric. We
 
 ## Task 2
 
+The data shows that Sergio Ramos perfromed the most number of passes in the whole competiton. This result does seem to 
+allign with the Spanish Tiki-Taka mentality,however for a defender to have had the most ball touches in terms of passing 
+force us to ask the question -"DID SPAIN PLAY A LOT FROM THE BACK" and was that the reason they did not seem to find the 
+back of the net. Out of 4 games they drew 3, clearly playing from the back might have not been the best idea 
+
+
+
 
