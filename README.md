@@ -9,4 +9,4 @@ The main objects were
 2.) analyse which player had the greatest number of passes throught the whole competition 
 
 
-<img src="WC 2018-images/download.png"> 
+<img src="WC 2018-images/download.png" width= 100 > 
