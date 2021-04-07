@@ -31,3 +31,7 @@ back of the net. Out of 4 games they drew 3, clearly playing from the back might
 
 <img src="WC 2018-images/download (1).png" >
 
+### Reference List
+
+Pappalardo et al., (2019) A public data set of spatio-temporal match events in soccer competitions, Nature Scientific Data 6:236, https://www.nature.com/articles/s41597-019-0247-7
+
